@@ -35,7 +35,18 @@ Light with frequency of $507nm$ for the maximum absorption in human retina under
 Light with frequency of $555nm$ for the maximum absorption in human retina under photopic setup.<br>
 1 watt of radiant power equals to 683 lumen at this wavelength.
 
+## Cone spectral absorbance
+
+### Psychophysics 
+
+Psychophysic response is estimated by subjective flicker photometry.
+
+<img src="./source/coneSpectralSensitivities/AStockman_LTSharpe_2000/RelativeConeSpectralSensitivities.png"  width="640" height="480"><br>
+
+Produced from dataset reported by A Stockman and LT Sharpe (2000). The relative cone spectral sensitivities are measured by 2° flicker photometry.
+
 ### Prereceptoral spectral absorbance
+
 **Lens**<br>
 Spectral absorbance reduced against rising wavelength. The reduction will be more signficant with lens yellowing from aging.
 
@@ -43,10 +54,6 @@ Spectral absorbance reduced against rising wavelength. The reduction will be mor
 $\lambda_{max} \, 460nm$
 
 ### Receptoral spectral absorbance
-
-<img src="./source/coneSpectralSensitivities/AStockman_LTSharpe_2000/RelativeConeSpectralSensitivities.png"  width="640" height="480"><br>
-Produced from dataset reported by A Stockman and LT Sharpe (2000). The relative cone spectral sensitivities are measured by 2° flicker photometry.
-
 
 **L-cone**<br>
 $\lambda_{max} \, 559nm$
