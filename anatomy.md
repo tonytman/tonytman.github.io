@@ -41,7 +41,7 @@ major part of posterior aspect
 
 ### Biometrics
 * Anteroposterior diameter:  $24mm$.
-* Scleral thickness: Insertion site of rectus muscles $3mm$. Normally $6mm$.
+* Scleral thickness: Insertion site of rectus muscles $0.3mm$. Normally $0.6mm$.
 * Corneal thickness: Centre $550\mu m$.
 * Corneal dimension: Horizontal $11.7mm$. Vertical $10.6mm$.
 * Lens thickness: $4mm$.
@@ -56,4 +56,4 @@ major part of posterior aspect
 * Foveola diameter: $0.3mm$.
 * Foveola thickness: $0.25mm$.
 
-
+<img src="./source/dimension.png"  width="607" height="461"><br>
